@@ -98,20 +98,12 @@ Refer to the [Jest Matchers](https://facebook.github.io/jest/docs/en/using-match
 
 
 ## Challenge: Cat Tinder Tests
-- Add Enzyme to your application
-- Add a `__tests__` directory to your component folder with test files for each existing component
-  - Create a test for each page, checking that the page is rendering by a single element/tag.
-- Add a `__tests__` directory to your pages folder and test files for each existing page.
-  - Create a test for each page, checking that the page is rendering by a single element/tag.
+As a developer, I have been commissioned to create an application where a user can see cute cats looking for friends. As a user, I can see a list of cats. I can click on a cat and see more information about that cat. I can also add cats to the list of cats looking for friends. If my work is acceptable to my client, I may also be asked to add the ability to remove a cat from the list as well as edit cat information.
 
-
-## Stretch Challenges
-- As a developer, I can make my tests more DRY by declaring reusable variables in global scope.
-- Pages:
-  - Create an additional test for the page `Home.js` that checks for the first `img` tag and all of its its props.
-- Components:
-  - Create an additional test for the component `Header.js` to check for a tag by its class name to contain some text.
-  - Create an additional test for component `Footer.js` to check for the div `footer` to contain an HTML anchor tag linking to `/catIndex`.
+- As a developer, I can add Enzyme to my application.
+- As a developer, I can add a file for Header.test.js and ensure the Header component is rendering correctly.
+- As a developer, I can add a file for Footer.test.js and ensure the Footer component is rendering correctly.
+- As a developer, I can add a file for NotFound.test.js and ensure the NotFound component is rendering correctly.
 
 ---
 [Back to Syllabus](../../README.md#cat-tinder-frontend)
