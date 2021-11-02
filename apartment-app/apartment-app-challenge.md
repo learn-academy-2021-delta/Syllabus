@@ -21,8 +21,6 @@ If my work is acceptable to my client, I may also be asked to add the ability fo
 
 **Story:** As a user, I can register to create an account on the web application, login to my existing account, and log out.
 
-**Story:** As a logged in user, I can see a list of all the apartments available for rent, and the details of all the apartments available for rent.
-
 **Story:** As a logged in user, I can see a list of all the apartments I have available for rent.
 
 **Story:** As a logged in user, I can fill out a form that will allow me to create a new listing of an apartment.
