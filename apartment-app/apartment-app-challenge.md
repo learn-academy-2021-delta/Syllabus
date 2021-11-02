@@ -27,9 +27,9 @@ If my work is acceptable to my client, I may also be asked to add the ability fo
 
 **Story:** As a logged in user, I can fill out a form that will allow me to create a new listing of an apartment.
 
-**Story:**: (STRETCH) As a logged in user, I can edit the information for the apartments I have created, but I cannot edit the information for apartments created by someone else.
+**Story:** (STRETCH) As a logged in user, I can edit the information for the apartments I have created, but I cannot edit the information for apartments created by someone else.
 
-**Story:**: (STRETCH) As a logged in user, I can delete an apartment I have created, but I cannot delete apartments created by someone else.
+**Story:** (STRETCH) As a logged in user, I can delete an apartment I have created, but I cannot delete apartments created by someone else.
 
 
 ---
