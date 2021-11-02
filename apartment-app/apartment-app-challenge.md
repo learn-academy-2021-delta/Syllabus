@@ -13,13 +13,15 @@ If my work is acceptable to my client, I may also be asked to add the ability fo
 
 
 ## User Stories
-**Story:** As an unregistered user, I can go to the web application and see a home page with information about the application, a header element with navigation to other pages, and a footer element with navigation features.
+**Story:** As an unregistered user, I can go to the web application and see a home page with information about the application, a header element, and a footer element.
+
+**Story:** As an unregistered user, I can see the navigation options for a page with all the apartment listings, a page where I can create an account, and always get back to the home page.
 
 **Story:** As an unregistered user, I can navigate to a page that shows me a list of all the apartments available for rent.
 
 **Story:** As an unregistered user, I can select one available apartment and view its details.
 
-**Story:** As a user, I can register to create an account on the web application, login to my existing account, and log out.
+**Story:** As a user, I can register to create an account on the web application, login to my existing account, and logout.
 
 **Story:** As a logged in user, I can see a list of all the apartments I have available for rent.
 
